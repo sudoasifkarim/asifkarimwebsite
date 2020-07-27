@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
-##Asif Karim
-##0337961
+## Asif Karim
+## 0337961
 
 You can use the [editor on GitHub](https://github.com/sudoasifkarim/asifkarimwebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
